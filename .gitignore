@@ -1,2 +1,6 @@
 
 urllib2/.idea/*
+
+urllib2/baike_spider/__init__.pyc
+
+*.pyc
